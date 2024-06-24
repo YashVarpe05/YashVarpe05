@@ -16,25 +16,8 @@
 ```javascript
 const yash = {
 	pronouns: "He" | "Him",
-	code: [
-		"JavaScript",
-		"React",
-		"HTML",
-		"CSS",
-		"Node.js",
-		"Express",
-		"MongoDB",
-		"SQL",
-	],
-	tools: [
-		"React",
-		"Redux",
-		"Node.js",
-		"Express",
-		"MongoDB",
-		"SQL",
-		"Styled-Components",
-	],
+	code: [JavaScript, React, HTML, CSS, Node.js, Express, MongoDB, SQL],
+	tools: [React, Redux, Node, Express, MongoDB, SQL, Styled-Components],
 	architecture: ["microservices", "event-driven", "design system pattern"],
 	techCommunities: {
 		member: "ChesslaBlab",
