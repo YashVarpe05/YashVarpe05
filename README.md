@@ -90,8 +90,7 @@ const yash = {
 ---
 
 ### 🌟 Let's Connect!
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave GIF">
-<em><b>I love connecting with people</b>. If you want to say <b>hi</b> or chat about tech, projects, or anything interesting, <b>I'd be thrilled to meet you!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave GIF"><em><b>I love connecting with people</b>. If you want to say <b>hi</b> or chat about tech, projects, or anything interesting, <b>I'd be thrilled to meet you!</b> 😊</em>
 Looking forward to connecting with you! 😊
 
 ![snake gif](https://github.com/YashVarpe05/YashVarpe05/blob/output/github-contribution-grid-snake.svg)
