@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./octocat-1719221900022.png" alt="Coder" width="350" />
+<img src="./octocat-1719221900022.png" alt="Coder" width="250" />
 </div>
 
 ###
@@ -104,11 +104,15 @@ const yash = {
 <div align="center">
   <img src="https://profile-counter.glitch.me/YashVarpe05/count.svg?" />
 </div>
-<img src="https://raw.githubusercontent.com/YashVarpe05/YashVarpe05/output/snake.svg" alt="Snake animation" />
-
 ---
 
 ### 🌟 Let's Connect!
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave GIF">
 <em><b>I love connecting with people</b>. If you want to say <b>hi</b> or chat about tech, projects, or anything interesting, <b>I'd be thrilled to meet you!</b> 😊</em>
 Looking forward to connecting with you! 😊
+
+![snake gif](https://github.com/YashVarpe05/YashVarpe05/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
