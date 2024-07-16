@@ -95,7 +95,8 @@ Looking forward to connecting with you! 😊
 
 ![snake gif](https://github.com/YashVarpe05/YashVarpe05/blob/output/github-contribution-grid-snake.svg)
 
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"> 
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"  align="center">
+	<img src="./giphy.webp"/>
 </div>
 	
 
