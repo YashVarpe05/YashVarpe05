@@ -15,16 +15,17 @@
 
 ```javascript
 const yash = {
-	pronouns: "He" | "Him",
-	code: [JavaScript, React, HTML, CSS, Node.js, Express, MongoDB, SQL],
-	tools: [React, Redux, Node, Express, MongoDB, SQL, Styled-Components],
-	architecture: ["microservices", "event-driven", "design system pattern"],
-	techCommunities: {
-		member: "ChesslaBlab",
-		contributor: "Open Source Projects",
-		mentor: "Junior Developers",
-	},
-	challenge: "I am currently learning React and doing projects to solidify my understanding",
+  pronouns: "He" | "Him",
+  code: [JavaScript, React, HTML, CSS, Node.js, Express, MongoDB, SQL],
+  tools: [React, Redux, Node, Express, MongoDB, SQL, Tailwind CSS, Styled-Components],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+    member: "ChesslaBlab",
+    contributor: "Open Source Projects",
+    mentor: "Junior Developers",
+  },
+  hackathons: ["NASA Space Apps Challenge 🛰️"],
+  challenge: "Currently mastering React, Web3, and Blockchain while working on projects to deepen my understanding",
 };
 ```
 <h3 align="left">🛠 Languages and Tools:</h3>
