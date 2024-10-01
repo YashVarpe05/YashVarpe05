@@ -3,6 +3,7 @@
 </div>
 
 ###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YashVarpe05.YashVarpe05&left_color=black&right_color=dimgrey" />
 </div>
@@ -28,6 +29,7 @@ const yash = {
   challenge: "Currently mastering React, Web3, and Blockchain while working on projects to deepen my understanding",
 };
 ```
+
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB logo" />
@@ -91,6 +93,7 @@ const yash = {
 ---
 
 ### 🌟 Let's Connect!
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave GIF"><em><b>I love connecting with people</b>. If you want to say <b>hi</b> or chat about tech, projects, or anything interesting, <b>I'd be thrilled to meet you!</b> 😊</em>
 Looking forward to connecting with you! 😊
 
@@ -99,6 +102,3 @@ Looking forward to connecting with you! 😊
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"  align="center">
 	<img src="./giphy.webp"/>
 </div>
-	
-
-
