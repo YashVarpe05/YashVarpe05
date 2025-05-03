@@ -17,17 +17,23 @@
 ```javascript
 const yash = {
   pronouns: "He" | "Him",
-  code: [JavaScript, React, HTML, CSS, Node.js, Express, MongoDB, SQL],
-  tools: [React, Redux, Node, Express, MongoDB, SQL, Tailwind CSS, Styled-Components],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: ["JavaScript", "React", "HTML", "CSS", "Node.js", "Express", "MongoDB", "SQL", "C++", "Java", "Python"],
+  tools: ["React","Redux","Node","Express","MongoDB","SQL","Tailwind CSS","Styled-Components","Postman","Git","Linux","VS Code"],
+  architecture: ["microservices", "event-driven", "design system pattern", "MVC"],
   techCommunities: {
     member: "ChesslaBlab",
     contributor: "Open Source Projects",
     mentor: "Junior Developers",
+    organizer: "Hackathon Events",
+    lead: ["FOSS Club Lead @ PDEA COEM", "Web Dev Lead @ CODEX Club"]
   },
-  hackathons: ["NASA Space Apps Challenge 🛰️"],
-  challenge: "Currently mastering React, Web3, and Blockchain while working on projects to deepen my understanding",
+  hackathons: [
+    "NASA Space Apps Challenge 🛰️", 
+    "CODELITE X", 
+    "COMPOSIO.DEV Hackathon"
+  ],
 };
+
 ```
 
 <h3 align="left">🛠 Languages and Tools:</h3>
@@ -97,7 +103,6 @@ const yash = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave GIF"><em><b>I love connecting with people</b>. If you want to say <b>hi</b> or chat about tech, projects, or anything interesting, <b>I'd be thrilled to meet you!</b> 😊</em>
 Looking forward to connecting with you! 😊
 
-![snake gif](https://github.com/YashVarpe05/YashVarpe05/blob/output/github-contribution-grid-snake.svg)
 
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"  align="center">
 	<img src="./giphy.webp"/>
