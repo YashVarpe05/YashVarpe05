@@ -18,16 +18,20 @@
 const yash = {
   pronouns: "He" | "Him",
   code: ["JavaScript", "React", "HTML", "CSS", "Node.js", "Express", "MongoDB", "SQL", "C++", "Java", "Python"],
-  tools: ["React","Redux","Node","Express","MongoDB","SQL","Tailwind CSS","Styled-Components","Postman","Git","Linux","VS Code"],
+  tools: ["React", "Redux", "Node", "Express", "MongoDB", "SQL", "Tailwind CSS", "Styled-Components", "Postman", "Git", "Linux", "VS Code"],
   architecture: ["microservices", "event-driven", "design system pattern", "MVC"],
   techCommunities: {
-    member: "ChesslaBlab",
-    contributor: "Open Source Projects",
+    member: ["FOSS UNITED", "Codex Club"],
+    contributor: ["Open Source Projects", "GSSOC 2025"],
     mentor: "Junior Developers",
     organizer: "Hackathon Events",
-    lead: ["FOSS Club Lead @ PDEA COEM", "Web Dev Lead @ CODEX Club"]
+    lead: ["FOSS Club Lead @ PDEA COEM", "Web Dev Lead @ CODEX Club", "Unstop Igniters Club @ Marketing Lead"]
   },
   hackathons: [
+	Winner: {
+	"I Love Hackathon: Chennai Web3 Edition"
+	},
+	"MUMBAI Hacks",                                                                                 
     "NASA Space Apps Challenge 🛰️", 
     "CODELITE X", 
     "COMPOSIO.DEV Hackathon"
