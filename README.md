@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./octocat-1719221900022.png" alt="Coder" width="250" />
+  <img src="./octocat-1719221900022.png" alt="Coder" width="250" />
 </div>
 
 ###
@@ -10,32 +10,77 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm Yash Varpe!</h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#00ADB5;">Yash Varpe</span></h1>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+<h3 align="center">💻 Full Stack & Web3 Developer | 🚀 DevOps Learner | 🎤 Speaker @ India FOSS 2025 | 🧠 Hackathon Organizer</h3>
+
+---
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little About Me
 
 ```javascript
 const yash = {
   pronouns: "He" | "Him",
-  code: ["JavaScript", "React", "HTML", "CSS", "Node.js", "Express", "MongoDB", "SQL", "C++", "Java", "Python"],
-  tools: ["React", "Redux", "Node", "Express", "MongoDB", "SQL", "Tailwind CSS", "Styled-Components", "Postman", "Git", "Linux", "VS Code"],
-  architecture: ["microservices", "event-driven", "design system pattern", "MVC"],
+  role: "Full Stack Developer | Web3 Enthusiast | DevOps Learner",
+  code: [
+    "JavaScript",
+    "React",
+    "HTML",
+    "CSS",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "SQL",
+    "C++",
+    "Java",
+    "Python",
+    "Solidity"
+  ],
+  tools: [
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "Node",
+    "Express",
+    "MongoDB",
+    "Thirdweb",
+    "Docker",
+    "Git",
+    "Linux",
+    "VS Code"
+  ],
+  architecture: [
+    "microservices",
+    "event-driven",
+    "serverless",
+    "MVC",
+    "CI/CD pipelines"
+  ],
+  learning: ["DevOps", "AWS", "Kubernetes", "Blockchain Protocols"],
+  web3Projects: [
+    "Decentralized DApp using Solidity & Thirdweb",
+    "NFT Minting Platform",
+    "DAO-based Voting App"
+  ],
   techCommunities: {
+    speaker: "India FOSS 2025",
     member: ["FOSS UNITED", "Codex Club"],
     contributor: ["Open Source Projects", "GSSOC 2025"],
     mentor: "Junior Developers",
-    organizer: "Hackathon Events",
-    lead: ["FOSS Club Lead @ PDEA COEM", "Web Dev Lead @ CODEX Club", "Unstop Igniters Club @ Marketing Lead"]
+    organizer: "CODELITE 2.0 Hackathon",
+    lead: [
+      "FOSS Club Lead @ PDEA COEM",
+      "Web Dev Lead @ CODEX Club",
+      "Marketing Lead @ Unstop Igniters Club"
+    ]
   },
   hackathons: [
-	Winner: {
-	"I Love Hackathon: Chennai Web3 Edition"
-	},
-	"MUMBAI Hacks",                                                                                 
-    "NASA Space Apps Challenge 🛰️", 
-    "CODELITE X", 
+    { Winner: "I Love Hackathon: Chennai Web3 Edition" },
+    "MUMBAI Hacks",
+    "NASA Space Apps Challenge 🛰️",
+    "CODELITE X",
     "COMPOSIO.DEV Hackathon"
-  ],
+  ]
 };
 
 ```
@@ -90,24 +135,11 @@ const yash = {
   </a>
 </div>
 <h3 align="left">🔥 My Stats:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashVarpe05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="175" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashVarpe05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="165" alt="languages graph" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YashVarpe05&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YashVarpe05/count.svg?" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YashVarpe05&show_icons=true&theme=radical&hide_border=true" height="175" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashVarpe05&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=YashVarpe05&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://profile-counter.glitch.me/YashVarpe05/count.svg?" /> </div>
 ---
 
 ### 🌟 Let's Connect!
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave GIF"><em><b>I love connecting with people</b>. If you want to say <b>hi</b> or chat about tech, projects, or anything interesting, <b>I'd be thrilled to meet you!</b> 😊</em>
-Looking forward to connecting with you! 😊
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Wave GIF"><em><b>I love collaborating and sharing knowledge.</b> If you want to talk about Web3, DevOps, Open Source, or Hackathons — <b>let’s connect and build something amazing!</b> 🚀</em>
 
-
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"  align="center">
-	<img src="./giphy.webp"/>
-</div>
+<div align="center"> <img src="./giphy.webp" alt="animated developer" width="600" /> </div>
