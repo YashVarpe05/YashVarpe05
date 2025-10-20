@@ -22,45 +22,14 @@
 const yash = {
   pronouns: "He" | "Him",
   role: "Full Stack Developer | Web3 Enthusiast | DevOps Learner",
-  code: [
-    "JavaScript",
-    "React",
-    "HTML",
-    "CSS",
-    "Node.js",
-    "Express",
-    "MongoDB",
-    "SQL",
-    "C++",
-    "Java",
-    "Python",
-    "Solidity"
-  ],
-  tools: [
-    "React",
-    "Next.js",
-    "Tailwind CSS",
-    "Node",
-    "Express",
-    "MongoDB",
-    "Thirdweb",
-    "Docker",
-    "Git",
-    "Linux",
-    "VS Code"
-  ],
-  architecture: [
-    "microservices",
-    "event-driven",
-    "serverless",
-    "MVC",
-    "CI/CD pipelines"
-  ],
+  code: ["JavaScript","React","HTML","CSS","Node.js","Express","MongoDB","SQL","C++","Java","Python","Solidity"],
+  tools: ["Next.js", "Tailwind CSS", "Thirdweb", "Docker", "Git", "Linux", "VS Code"],
+  architecture: ["microservices", "event-driven", "serverless", "MVC", "CI/CD pipelines"],
   learning: ["DevOps", "AWS", "Kubernetes", "Blockchain Protocols"],
   web3Projects: [
-    "Decentralized DApp using Solidity & Thirdweb",
-    "NFT Minting Platform",
-    "DAO-based Voting App"
+    "CrowD3 DApp using Solidity & Thirdweb",
+    "LMS Platform",
+    "AI-CampusWealthTracker"
   ],
   techCommunities: {
     speaker: "India FOSS 2025",
@@ -75,11 +44,11 @@ const yash = {
     ]
   },
   hackathons: [
-    { Winner: "I Love Hackathon: Chennai Web3 Edition" },
+    { Winner: "I Love Hackathon: Pune Web3 Edition" },
     "MUMBAI Hacks",
     "NASA Space Apps Challenge 🛰️",
-    "CODELITE X",
-    "COMPOSIO.DEV Hackathon"
+    "CODELITE ",
+    "APTOS Hacks"
   ]
 };
 
