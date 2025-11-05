@@ -104,7 +104,18 @@ const yash = {
   </a>
 </div>
 <h3 align="left">🔥 My Stats:</h3>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YashVarpe05&show_icons=true&theme=radical&hide_border=true" height="175" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashVarpe05&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=YashVarpe05&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://profile-counter.glitch.me/YashVarpe05/count.svg?" /> </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YashVarpe05&show_icons=true&theme=radical&hide_border=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashVarpe05&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YashVarpe05&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/YashVarpe05/count.svg?" />
+</div>
 ---
 
 ### 🌟 Let's Connect!
