@@ -1,6 +1,27 @@
 <div align="center">
-  <img src="./octocat-1719221900022.png" alt="Coder" width="250" />
-</div>
+
+<!-- Terminal profile hero. The contribution graph refreshes daily through
+     .github/workflows/update-profile-art.yml. Regenerate the portrait and
+     info card with scripts/generate_ascii_avatar.py and
+     scripts/generate_info_card.py. -->
+
+<h3><code>yash@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./assets/profile/contributions.svg" width="860" alt="Yash Varpe's GitHub contribution graph, refreshed daily" />
+
+<br />
+<br />
+
+<h2 align="center">Hey there 👋, I'm <span style="color:#00ADB5;">Yash Varpe</span></h2>
+
+<h4 align="center">💻 Full Stack & Web3 Developer | 🚀 AI/ML Learner | 🎤 Speaker @ India FOSS 2025 | 🧠 Hackathon Organizer</h4>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./assets/profile/ascii-avatar.svg" width="360" alt="Animated ASCII portrait of Yash Varpe" /></td>
+    <td valign="top"><img src="./assets/profile/info-card.svg" width="450" alt="Yash Varpe's role, stack, and highlights" /></td>
+  </tr>
+</table>
 
 ###
 
@@ -8,51 +29,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=YashVarpe05.YashVarpe05&left_color=black&right_color=dimgrey" />
 </div>
 
-###
-
-<h1 align="center">Hey there 👋, I'm <span style="color:#00ADB5;">Yash Varpe</span></h1>
-
-<h3 align="center">💻 Full Stack & Web3 Developer | 🚀 DevOps Learner | 🎤 Speaker @ India FOSS 2025 | 🧠 Hackathon Organizer</h3>
-
 ---
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A Little About Me
-
-```javascript
-const yash = {
-  pronouns: "He" | "Him",
-  role: "Full Stack Developer | Web3 Enthusiast | DevOps Learner",
-  code: ["JavaScript","React","HTML","CSS","Node.js","Express","MongoDB","SQL","C++","Java","Python","Solidity"],
-  tools: ["Next.js", "Tailwind CSS", "Thirdweb", "Docker", "Git", "Linux", "VS Code"],
-  architecture: ["microservices", "event-driven", "serverless", "MVC", "CI/CD pipelines"],
-  learning: ["DevOps", "AWS", "Kubernetes", "Blockchain Protocols"],
-  web3Projects: [
-    "CrowD3 DApp using Solidity & Thirdweb",
-    "LMS Platform",
-    "AI-CampusWealthTracker"
-  ],
-  techCommunities: {
-    speaker: "India FOSS 2025",
-    member: ["FOSS UNITED", "Codex Club"],
-    contributor: ["Open Source Projects", "GSSOC 2025"],
-    mentor: "Junior Developers",
-    organizer: "CODELITE 2.0 Hackathon",
-    lead: [
-      "FOSS Club Lead @ PDEA COEM",
-      "Web Dev Lead @ CODEX Club",
-      "Marketing Lead @ Unstop Igniters Club"
-    ]
-  },
-  hackathons: [
-    { Winner: "I Love Hackathon: Pune Web3 Edition" },
-    "MUMBAI Hacks",
-    "NASA Space Apps Challenge 🛰️",
-    "CODELITE ",
-    "APTOS Hacks"
-  ]
-};
-
-```
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <div align="left">
@@ -103,9 +80,19 @@ const yash = {
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium logo" />
   </a>
 </div>
-<h3 align="left">🔥 My Stats:</h3>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YashVarpe05&show_icons=true&theme=radical&hide_border=true" height="175" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashVarpe05&layout=compact&theme=radical&hide_border=true" height="175" alt="Top Languages" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=YashVarpe05&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak" /> </div> <div align="center"> <img src="https://profile-counter.glitch.me/YashVarpe05/count.svg?" /> </div>
+
+<div align="center">
 ---
+
+<h3 align="left">🔥 My Stats:</h3>
+
+![](https://github-readme-stats.shion.dev/api?username=YashVarpe05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=YashVarpe05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YashVarpe05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+</div>
 
 ### 🌟 Let's Connect!
 

@@ -1,0 +1,35 @@
+name: Refresh profile contribution art
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_contributions.py"
+      - ".github/workflows/update-profile-art.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.13"
+
+      - name: Render animated contribution graph
+        run: python scripts/generate_contributions.py
+
+      - name: Commit refreshed graph
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: refresh profile contribution graph [skip ci]"
+          file_pattern: "assets/profile/contributions.svg"
