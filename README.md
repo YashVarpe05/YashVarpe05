@@ -86,11 +86,10 @@
 
 <h3 align="left">🔥 My Stats:</h3>
 
-![](https://github-readme-stats.shion.dev/api?username=YashVarpe05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=YashVarpe05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=YashVarpe05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YashVarpe05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=YashVarpe05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
 </div>
 
