@@ -5,12 +5,6 @@
      info card with scripts/generate_ascii_avatar.py and
      scripts/generate_info_card.py. -->
 
-<h3><code>yash@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./assets/profile/contributions.svg" width="860" alt="Yash Varpe's GitHub contribution graph, refreshed daily" />
-
-<br />
-<br />
 
 <h2 align="center">Hey there 👋, I'm <span style="color:#00ADB5;">Yash Varpe</span></h2>
 
